@@ -1,0 +1,28 @@
+body{
+	background-color: green;
+	color: blue;
+}
+
+table {
+	width: 100%;
+	background-color: red;
+}
+
+thead{
+	background-color: orange;
+}
+
+tr:nth-child(odd) a{
+	background-color: purple;
+}
+
+thead th{
+
+}
+
+tr:nth-child(odd){
+	background-color: yellow;
+}
+tr:nth-child(even){
+	background-color: pink;
+}
